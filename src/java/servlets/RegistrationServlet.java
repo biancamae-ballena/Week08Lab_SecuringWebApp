@@ -16,10 +16,6 @@ import javax.servlet.http.HttpServletResponse;
 import models.User;
 import services.UserService;
 
-/**
- *
- * @author awarsyle
- */
 public class RegistrationServlet extends HttpServlet {
 
     @Override

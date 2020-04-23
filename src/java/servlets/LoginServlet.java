@@ -14,10 +14,6 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import services.AccountService;
 
-/**
- *
- * @author awarsyle
- */
 public class LoginServlet extends HttpServlet {
 
     @Override
