@@ -1,9 +1,3 @@
-<%-- 
-    Document   : login
-    Created on : 7-Nov-2018, 9:34:21 AM
-    Author     : awarsyle
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

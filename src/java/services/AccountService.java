@@ -8,10 +8,6 @@ package services;
 import database.UserDB;
 import models.User;
 
-/**
- *
- * @author awarsyle
- */
 public class AccountService {
 
     public User login(String username, String password) {

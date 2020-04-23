@@ -1,9 +1,3 @@
-<%-- 
-    Document   : registrations
-    Created on : 21-Nov-2018, 9:17:44 AM
-    Author     : awarsyle
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
